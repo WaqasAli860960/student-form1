@@ -1,0 +1,62 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10PX;
+    padding: 40PX;
+}
+
+#quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 3px solid #050505;
+    border-radius: 30px;
+    background-color: #918383;
+    box-shadow: 20px 20px 20px 5px rgb(63, 59, 59);
+}
+
+#quiz-header {
+    text-align: center;
+}
+
+#student-form {
+    margin-bottom: 20px;
+}
+
+#quiz-body {
+    margin-bottom: 20px;
+}
+
+#quiz-footer {
+    text-align: center;
+}
+
+#student-name{
+    height: 20px;
+border-radius: 10px;
+background-color: #ff0000;
+box-shadow:10px 10px 10px 5px  #050505; 
+}
+
+
+#student-email{
+    height: 20px;
+    border-radius: 10px;
+    background-color: #ff0000;
+    box-shadow:10px 10px 10px 5px  #050505; 
+}
+
+
+
+
+
+
+
+
+
+
+
+.khan{
+
+    display: none;
+}
